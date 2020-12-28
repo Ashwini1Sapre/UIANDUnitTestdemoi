@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AE17B3D6-F741-4FF7-B8FA-108FB6FFB4D5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F62F92A0-6D99-4A99-8609-074C8794499C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIANDUnitTestdemoi/DummyViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "DummyViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F62F92A0-6D99-4A99-8609-074C8794499C - e212034cfbf52e43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIANDUnitTestdemoi.DummyViewModel.deinit"
+                  moduleName = "UIANDUnitTestdemoi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UIANDUnitTestdemoi/UIANDUnitTestdemoi/DummyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F62F92A0-6D99-4A99-8609-074C8794499C - e2cf6fb829419270"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIANDUnitTestdemoi.DummyViewModel.__deallocating_deinit"
+                  moduleName = "UIANDUnitTestdemoi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UIANDUnitTestdemoi/UIANDUnitTestdemoi/DummyViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "023B7423-0430-4D34-AB39-002E22D91303"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIANDUnitTestdemoiUITests/UIANDUnitTestdemoiUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "testSenarioOne()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10917D52-0852-4680-BD91-0CA8B62F2149"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIANDUnitTestdemoi/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "10917D52-0852-4680-BD91-0CA8B62F2149 - 523a6ccb07cd5fa7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIANDUnitTestdemoi.ContentView.init(model: SwiftUI.EnvironmentObject&lt;A&gt;) -&gt; UIANDUnitTestdemoi.ContentView&lt;A&gt;"
+                  moduleName = "UIANDUnitTestdemoi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UIANDUnitTestdemoi/UIANDUnitTestdemoi/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "10917D52-0852-4680-BD91-0CA8B62F2149 - 37a7e413f724e07b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIANDUnitTestdemoi.ContentView.init() -&gt; UIANDUnitTestdemoi.ContentView&lt;A&gt;"
+                  moduleName = "UIANDUnitTestdemoi"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/knoxpomacbookpro/Desktop/UIANDUnitTestdemoi/UIANDUnitTestdemoi/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6661A5D1-5EDD-4348-9E17-9496A74304FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIANDUnitTestdemoi/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "ContentView_Previews"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
